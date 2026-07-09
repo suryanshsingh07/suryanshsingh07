@@ -71,7 +71,7 @@
 
 <h3 align="center">🧠 LeetCode Stats</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/suryanshsingh07?theme=light&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/suryansh_singh07?theme=light&font=Fira%20Code&ext=contest" />
 </div>
 
 ---
